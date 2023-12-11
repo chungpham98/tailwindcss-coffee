@@ -700,8 +700,9 @@ video {
   width: 100%;
 }
 
-.w-\[90\%\]{
-  width: 90%;
+.w-max{
+  width: -moz-max-content;
+  width: max-content;
 }
 
 .max-w-screen-2xl{
