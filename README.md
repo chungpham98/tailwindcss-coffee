@@ -1,6 +1,6 @@
 # TailwindCSS Coffee Style by Thiensu99
 
-Home page: https://chungpham98.github.io/tailwindcss-coffee/public/index.html
+Home page: https://coffee-style-thiensu99.web.app
 
 ## Requirements
 
